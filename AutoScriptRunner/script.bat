@@ -1,0 +1,1 @@
+"D:\SERVER\php\php.exe" -f "D:\SERVER\htdocs\sls-attendance\attendance.php"
